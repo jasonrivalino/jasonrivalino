@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">👋 <bold>Hi</bold>, I'm Jason Rivalino
 
-<!--
-**jasonrivalino/jasonrivalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 My Github Stats
+<p align="center">
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jasonrivalino&theme=xcode" />
+    </a>
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-profile-trophy.vercel.app/?username=jasonrivalino&column=-1&theme=dracula" />
+    </a>
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-readme-stats.vercel.app/api?username=jasonrivalino&show_icons=true&count_private=true&theme=dracula" />
+    </a>
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrivalino&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
+    </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Find me on social media:
+<p align="left">
+<a href="https://www.linkedin.com/in/jason-rivalino-00863b215/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a> &nbsp
+<a href="https://www.instagram.com/jasonrivalino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="20" width="20" /></a> &nbsp
+<a href="https://open.spotify.com/user/1egv0zl45v6uzmujarnodyjgi?si=8bd4bb31bb6142e5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="instagram" height="20" width="20" /></a>
+</p>
