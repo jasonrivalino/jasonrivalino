@@ -14,6 +14,9 @@
     <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrivalino&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
     </a>
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrivalino&theme=dracula&hide_border=false" alt="GitHub Stats streak">
+    </a>
 </p>
 
 ## ✨ Find me on social media:
