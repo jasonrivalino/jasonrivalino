@@ -3,9 +3,6 @@
 ## 🏆 My Github Stats
 <p align="center">
     <a href="https://github.com/jasonrivalino/jasonrivalino">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jasonrivalino&theme=xcode" />
-    </a>
-    <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-profile-trophy.vercel.app/?username=jasonrivalino&column=-1&theme=dracula" />
     </a>
     <a href="https://github.com/jasonrivalino/jasonrivalino">
