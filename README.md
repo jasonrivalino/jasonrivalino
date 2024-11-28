@@ -1,7 +1,7 @@
 <h1 align="center">👋 <bold>Hi</bold>, I'm Jason Rivalino
 
 ## 🗒️ About Me
-An ambitious 3rd-year Undergraduate Informatics Engineering undergraduate at Bandung Institute of Technology. I am deeply passionate about all things computer-related and specializing in UI Design, Frontend Development, Data Scientist, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills. 
+An ambitious final-year Undergraduate Informatics Engineering student at Bandung Institute of Technology. I am deeply passionate about all things computer-related and specializing in UI Design, Frontend Development, Data Scientist, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
 
 ## 💻 My Tech Stack
 ### Programming Language
@@ -18,6 +18,7 @@ An ambitious 3rd-year Undergraduate Informatics Engineering undergraduate at Ban
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![ChakraUI](https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -51,6 +52,7 @@ An ambitious 3rd-year Undergraduate Informatics Engineering undergraduate at Ban
  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
  ### Extras
+ ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
