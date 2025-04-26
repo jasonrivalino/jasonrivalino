@@ -1,4 +1,4 @@
-<h1 align="center">👋 <bold>Hi</bold>, I'm Jason Rivalino
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> <bold>Hi</bold>, I'm Jason Rivalino
 
 ## 🗒️ About Me
 An ambitious final-year Undergraduate Informatics Engineering student at Bandung Institute of Technology. I am deeply passionate about all things computer-related and specializing in UI Design, Frontend Development, Data Scientist, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
@@ -97,16 +97,12 @@ An ambitious final-year Undergraduate Informatics Engineering student at Bandung
 
 
 ## ✨ Find me on social media:
-<p align="left">
-   <a href="https://www.linkedin.com/in/jason-rivalino-00863b215/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="35" />
-   </a> 
-   &nbsp
-   <a href="https://www.instagram.com/jasonrivalino/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="35" />
-   </a> 
-   &nbsp
-   <a href="https://open.spotify.com/user/1egv0zl45v6uzmujarnodyjgi?si=8bd4bb31bb6142e5" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="instagram" height="35" width="35" />
-   </a>
-</p>
+<a href="https://www.linkedin.com/in/jason-rivalino-00863b215/" target="blank">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VtM2Q3cWowYWRzc29uY3BoMHJ6Ymd3b2FxY2FqcmIzcWw4YnNrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7YmQi07keApQrPUMUM/giphy.gif" alt="linkedin" height="55" width="55" />
+</a>
+<a href="https://www.instagram.com/jasonrivalino/" target="blank">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlpNGtnY2M3fjdqNGwyb3V1NWM2d3Zpc3gycm1iejAzYTd0d3djYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWpK88H1g9PtmtQly1/giphy.gif" alt="instagram" height="55" width="55" />
+</a> 
+<a href="https://open.spotify.com/user/1egv0zl45v6uzmujarnodyjgi?si=8bd4bb31bb6142e5" target="blank">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJzeGx1aTdzOHNoZ29sbm1mZ2RhajJsejJ3ZXJiMjVmZ2g3eWt5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j25atM0JZYLeEvyEc7/giphy.gif" alt="spotify" height="55" width="55" />
+</a>
