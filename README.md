@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> <bold>Hi</bold>, I'm Jason Rivalino
 
 ## 🗒️ About Me
-An ambitious final-year Undergraduate Informatics Engineering student at Bandung Institute of Technology. I am deeply passionate about all things computer-related and specializing in UI Design, Frontend Development, Data Scientist, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
+An undergraduate Informatics Engineering student at Bandung Institute of Technology. I am deeply passionate about all things computer-related and specialize in UI Design, Frontend Development, Application Development, Data Science, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
 
 **[Check my Personal Website](https://jason-rivalino.vercel.app/)**
 
