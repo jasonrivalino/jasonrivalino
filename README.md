@@ -3,7 +3,7 @@
 ## 🗒️ About Me
 A fresh graduate Informatics Engineering student from Bandung Institute of Technology. I am deeply passionate about all things computer-related and specialize in UI Design, Frontend Development, Application Development, Data Science, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
 
-**[Check my Personal Website](https://jason-rivalino.vercel.app/)**
+**[Check my Personal Website](https://jason-rivalino.vercel.app/)** <br> **[Check my Photography Website](https://jascope-view.vercel.app/)** 
 
 
 ## 💻 My Tech Stack
