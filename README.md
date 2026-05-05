@@ -24,6 +24,8 @@ A Bachelor of Informatics Engineering student from Bandung Institute of Technolo
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ChakraUI](https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge)
 
@@ -35,17 +37,21 @@ A Bachelor of Informatics Engineering student from Bandung Institute of Technolo
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -102,14 +108,15 @@ A Bachelor of Informatics Engineering student from Bandung Institute of Technolo
 [![Jason's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=jasonrivalino&theme=dracula)](https://github.com/jasonrivalino/github-readme-activity-graph)
 <p align="center">
     <!-- <a href="https://github.com/jasonrivalino/jasonrivalino">
-        <img src="https://github-profile-trophy.vercel.app/?username=jasonrivalino&column=-1&theme=dracula" />
-    </a> -->
-    <!-- <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-readme-stats.vercel.app/api?username=jasonrivalino&show_icons=true&count_private=true&theme=dracula" />
     </a> -->
     <!-- <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrivalino&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
     </a> -->
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-profile-trophy.vercel.app/?username=jasonrivalino&column=-1&theme=dracula" />
+    </a>
+    <br></br>
     <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrivalino&theme=dracula&hide_border=false" alt="GitHub Stats streak">
     </a>
