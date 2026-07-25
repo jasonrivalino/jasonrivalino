@@ -1,10 +1,13 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> <bold>Hi</bold>, I'm Jason Rivalino
 
 ## 🗒️ About Me
-A Bachelor of Informatics Engineering student from Bandung Institute of Technology. I am deeply passionate about all things computer-related and specialize in UI Design, Frontend Development, Application Development, Data Science, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
+A Bachelor of Informatics Engineering Student from Bandung Institute of Technology with over one year of professional experience. I am deeply passionate about all things computer-related and specialize in UI/UX Design, Software Application Development, Data Science, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
 
 **[Personal Website](https://jason-rivalino.vercel.app/)** • **[Photography Website](https://jascope-view.vercel.app/)** 
-
+<br></br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh1OXgxYmM3M3NzaDE5Z2MxdzNwYWMxOHYxeWp5ZGZnajlseG82eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
+</p>
 
 ## 💻 My Tech Stack
 ### Programming Language
@@ -119,10 +122,10 @@ A Bachelor of Informatics Engineering student from Bandung Institute of Technolo
     <!-- <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrivalino&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
     </a> -->
-    <a href="https://github.com/jasonrivalino/jasonrivalino">
+    <!-- <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-profile-trophy.vercel.app/?username=jasonrivalino&column=-1&theme=dracula" />
-    </a>
-    <br></br>
+    </a> -->
+    <!-- <br></br> -->
     <a href="https://github.com/jasonrivalino/jasonrivalino">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrivalino&theme=dracula&hide_border=false" alt="GitHub Stats streak">
     </a>
