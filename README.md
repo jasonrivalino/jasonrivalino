@@ -3,7 +3,7 @@
 ## 🗒️ About Me
 A Bachelor of Informatics Engineering Student from Bandung Institute of Technology with over one year of professional experience. I am deeply passionate about all things computer-related and specialize in UI/UX Design, Software Application Development, Data Science, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
 
-**[Personal Website](https://jason-rivalino.vercel.app/)** • **[Photography Website](https://jascope-view.vercel.app/)** 
+**[Curriculum Vitae](https://drive.google.com/file/d/13ew13OobxgoxEB2aqqCiqE_LyUulbQty/view?usp=sharing)** • **[Personal Website](https://jason-rivalino.vercel.app/)** • **[Photography Website](https://jascope-view.vercel.app/)** 
 <br></br>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh1OXgxYmM3M3NzaDE5Z2MxdzNwYWMxOHYxeWp5ZGZnajlseG82eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
