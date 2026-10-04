@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> <bold>Hi</bold>, I'm Jason Rivalino
 
 ## 🗒️ About Me
-A Bachelor of Informatics Engineering Student from Bandung Institute of Technology with over one year of professional experience. I am deeply passionate about all things computer-related and specialize in UI/UX Design, Software Application Development, Data Science, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
+A Bachelor of Informatics Engineering with over one year of professional experience. I am deeply passionate about all things computer-related and specialize in Software Application Development, UI/UX Design, Data Science, and Data Analysis. Eager to learn and thrive in group settings, I bring a unique blend of critical and creative thinking, complemented by strong communication skills.
 
 **[Curriculum Vitae](https://drive.google.com/file/d/13ew13OobxgoxEB2aqqCiqE_LyUulbQty/view?usp=sharing)** • **[Personal Website](https://jason-rivalino.vercel.app/)** • **[Photography Website](https://jascope-view.vercel.app/)** 
 <br></br>
